@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+  
+}
+
+.cloud1{
+    width:100%;
+    padding: 20px;
+    box-sizing: border-box;
+   text-align: center;
+}
+
+
+.circle{
+   width: 100px;
+   padding: 50px 0;
+   line-height: 0%;
+   margin: 60px auto;
+   background:mediumturquoise;
+   color: white;
+   border-radius: 50px;
+   cursor: pointer;
+   transition: transform 0.4s 1s linear;
+}
+
+.circle{
+    background: darkblue;
+    transform: rotate(360deg);
+}
